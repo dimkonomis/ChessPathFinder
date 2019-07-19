@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChessPathFinder</string>
+
+    <string name="find">Find paths</string>
+    <string name="clear">Clear paths</string>
+    <string name="no_path">No path found for selected points</string>
+</resources>
